@@ -125,7 +125,7 @@ void loop() {
 
 **a. Describe the voltage change over the sensing range of the sensor. A sketch of voltage vs. distance would work also. Does it match up with what you expect from the datasheet?**
 
-[Ambient Graph](ambient.jpg)
+![alt text](ambient.jpg)
 
 **b. Upload your merged code to your lab report repository and link to it here.**
 
@@ -172,7 +172,7 @@ previousAddress += sizeof(float);
  
 **a. Insert here a copy of your final state diagram.**
 
-[!alt text](state.jpg)
+![alt text](state.jpg)
 
 ### 3. Create your data logger!
  
