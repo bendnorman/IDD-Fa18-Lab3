@@ -129,7 +129,7 @@ void loop() {
 
 **b. Upload your merged code to your lab report repository and link to it here.**
 
-[Accelerometer + Proximity]('Accelerometer copy/src/main.ino')
+[Accelerometer + Proximity](Accelerometer\ copy/src/main.ino)
 
 ## Optional. Graphic Display
 
