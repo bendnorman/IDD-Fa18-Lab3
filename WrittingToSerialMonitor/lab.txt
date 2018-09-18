@@ -1,0 +1,22 @@
+a. Based on the readings from the serial monitor, what is the range of the analog values being read?
+
+0 to 1023
+
+b. How many bits of resolution does the analog to digital converter (ADC) on the Arduino have
+
+1023 resolution
+
+
+a. What voltage values do you see from your force sensor?
+
+I was able to get up to 575
+
+b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)
+
+I think it's a log relationship
+
+c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?
+
+
+
+high impedence, low impedence
