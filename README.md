@@ -178,4 +178,5 @@ previousAddress += sizeof(float);
  
 **a. Record and upload a short demo video of your logger in action.**
 
-[Video](https://drive.google.com/file/d/1R-kL9zVgpu-_wlM1_pSWfjLwShbGbhB9/view?usp=sharing)
+[How Long have you been sitting for?](https://drive.google.com/file/d/1R-kL9zVgpu-_wlM1_pSWfjLwShbGbhB9/view?usp=sharing)
+[Accelerometer Reverb](https://drive.google.com/file/d/1xauR6Xm2JafoqInJD1AX-U0Pvt532m_A/view?usp=sharing)
